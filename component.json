@@ -1,0 +1,11 @@
+{
+    "name": "templates",
+    "description": "",
+    "version": "0.0.1",
+    "keywords": [],
+    "dependencies": {
+    },
+    "scripts": [
+        "index.js"
+    ]
+}
